@@ -1,4 +1,4 @@
-# 『超ビジュアル訳　ニーチェの詩：p5.jsでうたう「深夜の鐘の歌」』サポートサイト
+### 『超ビジュアル訳　ニーチェの詩：p5.jsでうたう「深夜の鐘の歌」』サポートサイト
 
 [![cover](cover.png)](https://techbookfest.org/product/5727504515989504)
 
@@ -27,3 +27,6 @@ p5.js Web Editorのスケッチページへのリンクです。
 
 - [サンプル](https://editor.p5js.org/sugi2000/sketches/RForLc1Xn)
 
+### 正誤表
+
+誤りが見つかった場合はこちらに掲載します。
