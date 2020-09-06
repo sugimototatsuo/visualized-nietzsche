@@ -19,7 +19,7 @@ p5.js Web Editorのスケッチページへのリンクです。
 - [いつつ！](https://editor.p5js.org/Sumikko-Mountain/sketches/h7iLrCbo6)
 - [むっつ！](https://editor.p5js.org/kom-shin/sketches/WmvESYa-m)
 - [ななつ！](https://editor.p5js.org/TS5632/sketches/7JuG8PYv_)
-- [やっつ！]()
+- [やっつ！](https://editor.p5js.org/kom-shin/sketches/19xmyznU6)
 - [ここのつ！](https://editor.p5js.org/Sumikko-Mountain/sketches/BtZ5mCxK0)
 - [とお！](https://editor.p5js.org/hitomi/sketches/F-xdzFiZ8)
 - [じゅういち！](https://editor.p5js.org/Sumikko-Mountain/sketches/p-qzwQhYm)
