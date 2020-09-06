@@ -3,7 +3,10 @@
 
 ![cover](cover.png)
 
+技術書典9で頒布しています。  
 [超ビジュアル訳　ニーチェの詩：p5.jsでうたう「深夜の鐘の歌」：すぎもと組](https://techbookfest.org/product/5727504515989504)
+
+サークルページはこちら。  
 [すぎもと組 | 技術書典](https://techbookfest.org/organization/5752355920281600)
 
 ### ソースコード
