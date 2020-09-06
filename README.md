@@ -1,6 +1,6 @@
 # 『超ビジュアル訳　ニーチェの詩：p5.jsでうたう「深夜の鐘の歌」』サポートサイト
 
-![cover](cover.png)
+[![cover](cover.png)](https://techbookfest.org/product/5727504515989504)
 
 技術書典9で頒布しています。  
 [超ビジュアル訳　ニーチェの詩：p5.jsでうたう「深夜の鐘の歌」：すぎもと組](https://techbookfest.org/product/5727504515989504)
