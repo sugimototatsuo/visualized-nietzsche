@@ -5,7 +5,8 @@
 
 ### ソースコード
 
-- サンプル
+- [サンプル](https://editor.p5js.org/sugi2000/sketches/RForLc1Xn)
+<iframe src="https://editor.p5js.org/sugi2000/embed/RForLc1Xn"></iframe>
 - ひとつ！
 - ふたつ！
 - みっつ！
