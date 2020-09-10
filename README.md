@@ -32,7 +32,7 @@ p5.js Web Editorのスケッチページにリンクしています。
 #### 編著者かく語りき
 
 - [シンノスケコマツ](https://editor.p5js.org/kom-shin/sketches/lKKwqZrLe)
-- [セキグチタイキ]()
+- [セキグチタイキ](https://editor.p5js.org/TS5632/sketches/gNdjt8w0X)
 - [スヤマトゥストラ](https://editor.p5js.org/Sumikko-Mountain/sketches/zxGjFAhgQ)
 - [ヒトミヤザキ](https://editor.p5js.org/hitomi/sketches/qUZJsbQ0N)
 - [タトゥオスギ](https://editor.p5js.org/sugi2000/sketches/bfh6-Bgrn)
