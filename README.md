@@ -40,9 +40,3 @@ p5.js Web Editorのスケッチページにリンクしています。
 ### 正誤表
 
 誤りが見つかった場合はこちらに掲載します。
-
-### おまけ
-
-技術書典オンラインマーケットの自分の本棚から「購入しました」ツイートをするブックマークレットです。以下のリンクをブックマークに追加してください。
-
-<a href="javascript:'use strict';(function(){if(null===document.querySelector(".MuiDialog-root"))alert("\u672c\u68da\u306e\u672c\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002");else{var a=document.querySelector(".r-gu0qjt > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1)");const b=document.querySelector(".r-1enofrn").textContent;a=`https://twitter.com/intent/tweet?text=${encodeURIComponent(`\u6280\u8853\u66f8\u5178\u30aa\u30f3\u30e9\u30a4\u30f3\u30de\u30fc\u30b1\u30c3\u30c8\u3067${b}\u306e\u300c${a.text}\u300d\u3092\u8cfc\u5165\u3057\u307e\u3057\u305f\uff01 #\u6280\u8853\u66f8\u5178%20${a.href}`)}`;%20window.open(a)}})();)">購入しましたツイート</a>
